@@ -1,0 +1,23 @@
+version: '3.1'
+
+services:
+  db:
+    image: postgres
+    ports:
+      - "5432:5432"
+    restart: on-failure
+    environment:
+      POSTGRES_USER: dbuser
+      POSTGRES_PASSWORD: pass123
+      POSTGRES_DB: provider
+#    image: mysql
+#    restart: on-failure
+#    environment:
+#      MYSQL_ROOT_PASSWORD: 123456
+#      MYSQL_DATABASE: provider
+
+  adminer:
+    image: adminer
+    restart: on-failure
+    ports:
+      - 9090:8080
