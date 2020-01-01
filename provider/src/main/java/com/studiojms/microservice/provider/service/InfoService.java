@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 /**
- * @author jefferson.souza
+ * @author studiojms
  */
 @Service
 public class InfoService {

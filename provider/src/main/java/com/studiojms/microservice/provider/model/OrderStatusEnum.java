@@ -1,7 +1,7 @@
 package com.studiojms.microservice.provider.model;
 
 /**
- * @author jefferson.souza
+ * @author studiojms
  */
 public enum OrderStatusEnum {
     RECEIVED,

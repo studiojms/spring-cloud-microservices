@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import java.util.List;
 
 /**
- * @author jefferson.souza
+ * @author studiojms
  */
 @FeignClient("provider")
 public interface IProviderClient {

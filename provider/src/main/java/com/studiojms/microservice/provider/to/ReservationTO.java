@@ -4,7 +4,7 @@ import lombok.Getter;
 import lombok.Setter;
 
 /**
- * @author jefferson.souza
+ * @author studiojms
  */
 @Getter
 @Setter

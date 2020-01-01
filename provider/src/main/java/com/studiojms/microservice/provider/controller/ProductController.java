@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 /**
- * @author jefferson.souza
+ * @author studiojms
  */
 @RestController
 @RequestMapping("/product")

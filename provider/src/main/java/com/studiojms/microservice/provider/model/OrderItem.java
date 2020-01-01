@@ -6,7 +6,7 @@ import lombok.Setter;
 import javax.persistence.*;
 
 /**
- * @author jefferson.souza
+ * @author studiojms
  */
 @Entity
 @Getter

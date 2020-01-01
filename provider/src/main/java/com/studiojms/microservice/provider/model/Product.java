@@ -10,7 +10,7 @@ import javax.persistence.Id;
 import java.math.BigDecimal;
 
 /**
- * @author jefferson.souza
+ * @author studiojms
  */
 @Entity
 @Getter

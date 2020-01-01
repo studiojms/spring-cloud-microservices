@@ -7,7 +7,7 @@ import org.springframework.stereotype.Repository;
 import java.util.List;
 
 /**
- * @author jefferson.souza
+ * @author studiojms
  */
 @Repository
 public interface ProductRepository extends CrudRepository<Product, Long> {

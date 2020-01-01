@@ -9,7 +9,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 /**
- * @author jefferson.souza
+ * @author studiojms
  */
 @Entity
 @Getter

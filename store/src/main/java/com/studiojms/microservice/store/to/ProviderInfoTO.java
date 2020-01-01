@@ -4,7 +4,7 @@ import lombok.Getter;
 import org.springframework.stereotype.Service;
 
 /**
- * @author jefferson.souza
+ * @author studiojms
  */
 @Getter
 @Service

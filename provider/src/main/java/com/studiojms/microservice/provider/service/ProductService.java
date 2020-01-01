@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 /**
- * @author jefferson.souza
+ * @author studiojms
  */
 @Service
 public class ProductService {

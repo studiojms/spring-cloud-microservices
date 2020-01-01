@@ -5,7 +5,7 @@ import lombok.Setter;
 import lombok.ToString;
 
 /**
- * @author jefferson.souza
+ * @author studiojms
  */
 @Getter
 @Setter
