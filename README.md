@@ -29,4 +29,4 @@ Represents a store service that consumes data from the provider and creates orde
 Represents an authentication server
 
 
-All config data are store in [https://github.com/studiojms/spring-cloud-microservice-data](https://github.com/studiojms/spring-cloud-microservice-data)
+All config data are stored in [https://github.com/studiojms/spring-cloud-microservice-data](https://github.com/studiojms/spring-cloud-microservice-data)
